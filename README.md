@@ -17,7 +17,7 @@ I like painting,watching movies,reading books and coding
 </h5>
 <br>
 
-<img align="right" width="500px" height="500px" src="Code.svg"/>
+<img align="right" width="480px" height="550px" src="Code.svg"/>
 
 
 <br>
@@ -41,11 +41,12 @@ I like painting,watching movies,reading books and coding
 [<img align="left" width="26px" src="instagram.svg" style="padding-right:10px;" />](https://www.instagram.com/farah_samreen_/)&nbsp;&nbsp;
 <br>
 <br>
+<br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=farahSamreen01&count_private=true&show_icons=true&theme=great-gatsby)
 
-
-
+<br>
+<br>
 
 ### Languages and Frameworks I know and Study
 
