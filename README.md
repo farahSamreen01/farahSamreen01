@@ -2,7 +2,7 @@
 <!-- Heading -->
 
 
-<p align="center"><img width="80%" src="Hola.svg" /></p>
+<p align="center"><img width="80%" src="img/Hola.svg" /></p>
 <h1 align="center"> I'm Farah Samreen 👋 </h1>
 
 <!-- Brief Text About Yourself -->
@@ -17,7 +17,7 @@ I like painting,watching movies,reading books and coding
 </h5>
 <br>
 
-<img align="right" width="400px" height="400px" src="Code.svg"/>
+<img align="right" width="400px" height="400px" src="img/Code.svg"/>
 
 
 <br>
@@ -36,9 +36,9 @@ I like painting,watching movies,reading books and coding
 <!-- Social media Handals -->
 ### Connect with me -
 
-[<img align="left" width="26px" src="linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/farah-samreen-4b0927195/)&nbsp;&nbsp;
-[<img align="left" width="26px" src="twitter.svg" style="padding-right:10px;" />](https://twitter.com/FarahSamreen01?t=Z0HZq9H51Cqw2Ix29wbdSQ&s=08)&nbsp;&nbsp;
-[<img align="left" width="26px" src="instagram.svg" style="padding-right:10px;" />](https://www.instagram.com/farah_samreen_/)&nbsp;&nbsp;
+[<img align="left" width="26px" src="img/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/farah-samreen-4b0927195/)&nbsp;&nbsp;
+[<img align="left" width="26px" src="img/twitter.svg" style="padding-right:10px;" />](https://twitter.com/FarahSamreen01?t=Z0HZq9H51Cqw2Ix29wbdSQ&s=08)&nbsp;&nbsp;
+[<img align="left" width="26px" src="img/instagram.svg" style="padding-right:10px;" />](https://www.instagram.com/farah_samreen_/)&nbsp;&nbsp;
 <br>
 <br>
 <br>
