@@ -17,7 +17,7 @@ I like painting,watching movies,reading books and coding
 </h5>
 <br>
 
-<img align="right" width="450px" height="550px" src="Code.svg"/>
+<img align="right" width="400px" height="550px" src="Code.svg"/>
 
 
 <br>
