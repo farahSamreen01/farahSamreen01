@@ -28,7 +28,7 @@ I like painting,watching movies,reading books and coding
 - 👯 I’m looking to Collaborate on Open source Projects.<br>
 - 💬 Ask me about Web Development.<br>
 - 🥅 2022 Goals: Learn more about Data Analytics<br>
-- ⚡ Fun fact:  Roughly 92% of The world's currency <br>is digital.
+- ⚡ Fun fact:  Roughly 92% of The world's currency is digital.<br>
 
 <br>
 <br>
